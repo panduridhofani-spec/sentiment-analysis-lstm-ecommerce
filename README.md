@@ -91,7 +91,7 @@ Confusion matrix visualization is used to analyze classification results in more
 ## 📓 Google Colab Notebook
 
 You can run and explore the full implementation here:  
-👉 **Colab:** [PUT_YOUR_COLAB_LINK_HERE]
+👉 **Colab:** [https://colab.research.google.com/drive/1fttqh22ShM-sW_OJNCfobv1ukBChwYjq?usp=sharing]
 
 ---
 
